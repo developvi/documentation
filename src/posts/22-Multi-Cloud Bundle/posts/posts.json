@@ -1,0 +1,4 @@
+{
+  "layout": "layouts/post.html",
+  "permalink": "/22-Multi-Cloud Bundle/{{ title | slug }}/index.html"
+}

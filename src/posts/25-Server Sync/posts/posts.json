@@ -1,0 +1,4 @@
+{
+  "layout": "layouts/post.html",
+  "permalink": "/25-Server Sync/{{ title | slug }}/index.html"
+}

@@ -1,0 +1,4 @@
+{
+  "layout": "layouts/post.html",
+  "permalink": "/08-tips-techniques-education/{{ title | slug }}/index.html"
+}

@@ -1,0 +1,4 @@
+{
+  "layout": "layouts/post.html",
+  "permalink": "/10-Woocommerce/{{ title | slug }}/index.html"
+}

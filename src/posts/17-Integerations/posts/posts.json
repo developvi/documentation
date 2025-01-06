@@ -1,0 +1,4 @@
+{
+  "layout": "layouts/post.html",
+  "permalink": "/17-Integerations/{{ title | slug }}/index.html"
+}

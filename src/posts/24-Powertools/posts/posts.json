@@ -1,0 +1,4 @@
+{
+  "layout": "layouts/post.html",
+  "permalink": "/24-Powertools/{{ title | slug }}/index.html"
+}

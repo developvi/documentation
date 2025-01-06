@@ -1,0 +1,4 @@
+{
+  "layout": "layouts/post.html",
+  "permalink": "/14-Git-Control/{{ title | slug }}/index.html"
+}

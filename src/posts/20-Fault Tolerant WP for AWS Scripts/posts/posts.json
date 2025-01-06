@@ -1,0 +1,4 @@
+{
+  "layout": "layouts/post.html",
+  "permalink": "/20-Fault Tolerant WP for AWS Scripts/{{ title | slug }}/index.html"
+}

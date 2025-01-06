@@ -1,0 +1,4 @@
+{
+  "layout": "layouts/post.html",
+  "permalink": "/15-Multi-tenant/{{ title | slug }}/index.html"
+}
