@@ -1,0 +1,4 @@
+{
+  "layout": "layouts/post.html",
+  "permalink": "/21-Momentum Service/{{ title | slug }}/index.html"
+}

@@ -1,0 +1,4 @@
+{
+  "layout": "layouts/post.html",
+  "permalink": "/04-Teams/{{ title | slug }}/index.html"
+}

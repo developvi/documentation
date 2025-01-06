@@ -1,0 +1,4 @@
+{
+  "layout": "layouts/post.html",
+  "permalink": "/26-Virtual Cloud Provider/{{ title | slug }}/index.html"
+}

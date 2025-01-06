@@ -1,0 +1,4 @@
+{
+  "layout": "layouts/post.html",
+  "permalink": "/12-Developer-Tips/{{ title | slug }}/index.html"
+}

@@ -1,0 +1,4 @@
+{
+  "layout": "layouts/post.html",
+  "permalink": "/23-Multisite/{{ title | slug }}/index.html"
+}

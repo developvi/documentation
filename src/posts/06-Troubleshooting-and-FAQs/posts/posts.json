@@ -1,0 +1,4 @@
+{
+  "layout": "layouts/post.html",
+  "permalink": "/06-Troubleshooting-and-FAQs/{{ title | slug }}/index.html"
+}

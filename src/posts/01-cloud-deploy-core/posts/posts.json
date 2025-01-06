@@ -1,0 +1,4 @@
+{
+  "layout": "layouts/post.html",
+  "permalink": "/01-cloud-deploy-core/{{ title | slug }}/index.html"
+}

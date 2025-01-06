@@ -1,0 +1,4 @@
+{
+  "layout": "layouts/post.html",
+  "permalink": "/09-Command-Line/{{ title | slug }}/index.html"
+}

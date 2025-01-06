@@ -1,0 +1,4 @@
+{
+  "layout": "layouts/post.html",
+  "permalink": "/19-Bring Your Own Server (Custom Server)/{{ title | slug }}/index.html"
+}

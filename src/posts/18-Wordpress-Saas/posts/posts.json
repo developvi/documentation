@@ -1,0 +1,4 @@
+{
+  "layout": "layouts/post.html",
+  "permalink": "/18-Wordpress-Saas/{{ title | slug }}/index.html"
+}

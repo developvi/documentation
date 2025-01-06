@@ -1,0 +1,4 @@
+{
+  "layout": "layouts/post.html",
+  "permalink": "/16-Compare/{{ title | slug }}/index.html"
+}
